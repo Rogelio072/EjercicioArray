@@ -25,7 +25,7 @@ public class Ejercicio1 {
         // 4. Ordenamos el array de menor a mayor
         Arrays.sort(array);
 
-        // 5. Obtenemos el menor (primer elemento) y el mayor (último elemento)
+        // 5. Obtenemos el menor y el mayor
         int numeroMenor = array[0];
         int numeroMayor = array[array.length - 1];
 
